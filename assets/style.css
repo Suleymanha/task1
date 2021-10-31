@@ -1,0 +1,70 @@
+
+body{
+    background-color: 
+    yellow;
+}
+
+.text{
+    
+    font-size: 100PX;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50PX;
+    text-align: center;
+    font-weight: 800;
+    line-height: 50PX;
+
+}
+
+.box{
+
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-top-width: 50px;
+    border-top-style:solid;
+    border-color: black;
+
+
+    
+}
+.image{
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 350px;
+    
+}
+
+.name{
+    font-size: 30px;
+    margin-left: 330px;
+    font-weight: 900;
+    
+}
+
+.description{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.pics{
+    font-size: 50px;
+    margin-left: 300px;
+    color:red;
+}
+
+.forma{
+    
+    background-color: blue;
+    color: white;
+    text-decoration:none;
+    font-size: 20px;
+    margin-left: 300px;
+    
+}
+
+
+
+
+
